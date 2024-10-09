@@ -23,3 +23,9 @@ np.asarray(state_vector)
 Find a quantum circuit that represents the state vector with a depth less than 50, using the basis_gates=[x,h,rz,cx] and the following architecture
 
 ![architecture](https://github.com/AprilSweettooth/QOSF-screening-Task/blob/main/architecture.png)
+
+I have completed the task required as well as implemented addition features like
+
+   - Fidelity increment
+   - Decrease in depth by choice of the routing/layout/optimization
+   - Circuit generation with arbitrary input state
